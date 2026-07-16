@@ -1,5 +1,7 @@
 # Prompts GEO — être cité par ChatGPT, Perplexity et Gemini
 
+🇬🇧 **[Read this in English →](./README.en.md)**
+
 **La première bibliothèque française de prompts GEO (Generative Engine Optimization) : 19 prompts prêts à l'emploi pour tester et améliorer la visibilité d'une entreprise dans les réponses des IA génératives.** Gratuite, sans inscription, maintenue par [Bernard David Corroy](https://www.david-corroy.com/), consultant SEO & GEO indépendant (expert SEO depuis 2004, fondateur de Phonandroid — 10M+ visiteurs/mois, revendu au Groupe Figaro en 2022).
 
 Chaque prompt est publié avec son **protocole d'utilisation**, sa **grille de lecture des résultats**, un **exemple réel** et ses **limites honnêtes** — ce que les listes de prompts oublient systématiquement.
