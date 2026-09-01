@@ -8,6 +8,7 @@ Chaque prompt est publié avec son **protocole d'utilisation**, sa **grille de l
 
 ➡️ **La bibliothèque complète : [david-corroy.com/prompts-geo](https://www.david-corroy.com/prompts-geo/)**
 ➡️ **Le plan guidé : [30 jours pour être cité par ChatGPT](https://www.david-corroy.com/prompts-geo/plan-30-jours/)** — 1 action de 10 à 30 min par jour, prompts fournis, progression sauvegardée.
+➡️ **La [veille GEO](./veille/)** — l'actualité SEO / GEO / IA générative, sourcée, avec ce qu'elle change concrètement pour votre visibilité.
 
 ---
 
