@@ -8,6 +8,7 @@ Tenue par [Bernard David Corroy](https://www.david-corroy.com/), consultant SEO 
 
 | Date | Note |
 |---|---|
+| 2026-11-10 | [Veille GEO, 10 novembre 2026](./2026-11-10.md) |
 | 2026-09-08 | [Veille GEO — semaine du 8 septembre 2026](./2026-09-08.md) |
 | 2026-09-01 | [Veille GEO — semaine du 1er septembre 2026](./2026-09-01.md) |
 
